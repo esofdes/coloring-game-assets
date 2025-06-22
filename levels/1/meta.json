@@ -1,0 +1,22 @@
+{
+  "name": {
+    "en": "Hedgehog",
+    "ru": "Ежик"
+  },
+  "description": {
+    "en": "Coloring page: Hedgehog",
+    "ru": "Раскраска: Ежик"
+  },
+  "colors": [
+    "#d11a2c",
+    "#000000",
+    "#82bd53",
+    "#5f3b25",
+    "#ee750c",
+    "#008951"
+  ],
+  "difficulty": "medium",
+  "category": "general",
+  "createdAt": "2025-06-22T21:50:19.000Z",
+  "version": "1.0.0"
+}
